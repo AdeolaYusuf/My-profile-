@@ -1,2 +1,2 @@
-# My-profile-
-Personal profile page
+# My-Profile-
+Personal Profile Page
